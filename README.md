@@ -1,4 +1,3 @@
-````markdown
 # 🤖 RoboApp — AI-Powered Robotics Quiz (React Native + Expo)
 
 RoboApp is an educational mobile application designed to test and strengthen robotics knowledge through automatically generated quizzes.  
